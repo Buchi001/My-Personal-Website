@@ -1,0 +1,70 @@
+.bg-body-primary{
+  background-color: #0d083c;
+}
+#features{
+background-color: #102772;
+border: none;
+}
+.features{
+  display: flex;
+  padding-top: 50px;
+  justify-content: center;
+  height: 500px;
+}
+.bi{
+  color: white;
+}
+.name{
+  display: flex;
+  justify-content: center;
+  color: white;
+  font-family: sans-serif;
+  font-weight: bolder;
+  font-size: larger;
+}
+.about{
+  display: flex;
+  justify-content: center;
+  color: #c7cee6;
+  height: 100px;
+  font-weight: bold;
+  font-family: "Anta", sans-serif;
+  
+}
+.testimonial>h2{
+  color: white;
+}
+.testimonial{
+  height: 200px;
+  background-color: #16339b;
+  font-weight: bold;
+  padding-left: 410px;
+}
+.testimonial>ul{
+  color: #f1f3fa;
+  font-family: "Anta", sans-serif;
+}
+#projects{
+  background-color: #ac976f;
+  height: 550px;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.image{
+  border-radius: 1000px;
+}
+.my{
+  margin-left: 0px;
+  color: #16339b;
+  font-weight: bolder;
+}
+.cards{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: 100px;
+  border-right: 50px;
+  height: 1px;
+  
+}
